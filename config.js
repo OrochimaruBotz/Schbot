@@ -5,10 +5,10 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ['6283190403329'],
-  ['6281313312123'],
-  ['6282180530633'],
-  ['6282328303332', 'Limau', true]
+  ['6288804947282'],
+  ['6288804947282'],
+  ['6289697488609'],
+  ['6288804947282', 'Humanz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,7 +39,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Use Bot 6287724225921'
-global.author = 'SCH BOT ig:rizxyux'
+global.author = 'SCH BOT ig:humanzzhengked'
 global.wm = "Adventure pitur"
 global.multiplier = 69 // The higher, The harder levelup
 
@@ -54,14 +54,14 @@ global.github = "https://github.com/Rizxyu/"
 
 //Donasi
 global.saweria = "https://www.saweria.co/sxzy"
-global.dana = ["6282328303332"]
+global.dana = ["6288804947282"]
 global.pulsa = [
-["6282328303332"], 
-["6281375308383"]
+["6288804947282"], 
+["6288804947282"]
 ]
-global.trakteer = "https://trakteer.id/rizxyugnxng/tip"//Link url https://
-global.paypal = "rizkynursanto48@gmail.com"//paypal email
-global.gopay = "082328303332"//Numver for Payment digital Gopay Gojek
+global.trakteer = "https://trakteer.id/humanzzhengker/tip"//Link url https://
+global.paypal = "humanzzdev@gmail.com"//paypal email
+global.gopay = "088804947282"//Numver for Payment digital Gopay Gojek
 
 
 //Rpg
